@@ -939,7 +939,7 @@ p.nominalBounds = new cjs.Rectangle(-17,-17,34,34);
 		this.menu_btn.on('click', function(){gotoMenu();});
 		function gotoMenu()
 		{
-			window.location = "https://www.colorvertex.com";
+			window.Print()";
 
 
 
