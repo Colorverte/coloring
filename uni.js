@@ -942,7 +942,6 @@ p.nominalBounds = new cjs.Rectangle(-17,-17,34,34);
 			window.Print()
 
 
-
 		}
 	}
 
